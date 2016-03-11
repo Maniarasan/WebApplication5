@@ -1,0 +1,7 @@
+c:\users\intern5\documents\visual studio 2013\Projects\WebApplication5\ClassLibrary1\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+c:\users\intern5\documents\visual studio 2013\Projects\WebApplication5\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\intern5\documents\visual studio 2013\Projects\WebApplication5\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\intern5\documents\visual studio 2013\Projects\WebApplication5\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\intern5\documents\visual studio 2013\Projects\WebApplication5\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+c:\users\intern5\documents\visual studio 2013\Projects\WebApplication5\ClassLibrary1\bin\Debug\Models.dll
+c:\users\intern5\documents\visual studio 2013\Projects\WebApplication5\ClassLibrary1\bin\Debug\Models.pdb
